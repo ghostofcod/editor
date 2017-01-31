@@ -1,8 +1,0 @@
-C:\Lenovo\editor\Editor\Editor\bin\Debug\Editor.exe.config
-C:\Lenovo\editor\Editor\Editor\bin\Debug\Editor.exe
-C:\Lenovo\editor\Editor\Editor\bin\Debug\Editor.pdb
-C:\Lenovo\editor\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
-C:\Lenovo\editor\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
-C:\Lenovo\editor\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
-C:\Lenovo\editor\Editor\Editor\obj\Debug\Editor.exe
-C:\Lenovo\editor\Editor\Editor\obj\Debug\Editor.pdb
